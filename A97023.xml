@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand convention for Englands summum bonum As it was held by the loyal cavaliers, and the phanatick hereticks. Wherein is proved that there can be no peace nor settlement till the restoration of Charles the Second to his crown and dignities. By Samuel Wall, clerk.</title>
+            <author>Wall, Samuel, clerk.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97023</idno>
+            <idno type="STC">Wing W473A</idno>
+            <idno type="STC">ESTC R225392</idno>
+            <idno type="EEBO-CITATION">99896140</idno>
+            <idno type="PROQUEST">99896140</idno>
+            <idno type="VID">154093</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154093)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2396:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand convention for Englands summum bonum As it was held by the loyal cavaliers, and the phanatick hereticks. Wherein is proved that there can be no peace nor settlement till the restoration of Charles the Second to his crown and dignities. By Samuel Wall, clerk.</title>
+                  <author>Wall, Samuel, clerk.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154093:1"/>
+            <p>The Grand, CONVENTION FOR ENGLANDS Summum Bounm.</p>
+            <p>As it was held by the Loyal <hi>Cavaliers,</hi> and the Phanatick <hi>Hereticks.</hi>
+            </p>
+            <p>WHEREIN Is proved that there can be no Peace nor Settlement till the reſtoration of CHARLES the Second to his Crown and Dignities.</p>
+            <p>By <hi>Samuel Wall,</hi> Clerk.</p>
+            <q>
+               <bibl>2 Chron. 23. 11.</bibl> 
+               <p>Then they brought out the Kings Son, and put upon him the Crown, and gave him the Teſtimony, [<hi>that is, They put upon him his Royall Apparrell</hi>] and made him <hi>KING,</hi> and ſaid, GOD ſave the <hi>KING.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:154093:2"/>
+            <head>The Grand Convention, &amp;c.</head>
+            <p>BEing met at the place appointed, Mr. <hi>Speaker</hi> (avery indifferent and unbyaſſed man) aroſe from his Seat, and delivered himſelf, as fol<g ref="char:EOLhyphen"/>loweth;</p>
+            <sp>
+               <p>
+                  <hi>Gentlemen,</hi>
+                  <lb/> Fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſmuch as now we are met together to heal up the breaches and to Cure the bleeding wounds of our faint-ſick Church &amp; State let us not now prove Empyricks, but good and wholſome Phyſicians; let us therefore firſt pray for a benediction to attend our lawful endeavours and then with Courage may we pour the Balm of <hi>Gilead</hi> into every ſick ſoul, then may we bind up the broken and ſhattered joints of our pre-diſtracted Body<g ref="char:EOLhyphen"/>politique.</p>
+               <p>
+                  <hi>Gentleman,</hi> whatſoever men may produce as Arguments either in the maintenance or defence of this or tho 'ther, in plain terms, the Nation is in as ſad a plight as ever was any in the world; the Church is run into He<g ref="char:EOLhyphen"/>teſies, the State into Factious parties, the Military and Civil have ſcarcely patience to hold their finger each off the other, Trading is quite decayed, the poor Nation ſubjected to a ſervile yoke, great oppreſſions impoſed upon her ſhoulders, Taxes, Tallage, unreaſonable Cuſtomes, Exciſe, high and heavy Impoſts, and other great Grievances, which to ſpeak indiffe<g ref="char:EOLhyphen"/>rently, is a providentiall Miracle, how the poore Nation is able to doe ſuch things. Therfore, as here we repreſent the face of the Publique, it be<g ref="char:EOLhyphen"/>hooves us, like Servants, to improve the Talents they have entruſted us withall, to the beſt advantage of our mouldering Nation; then if we doe good and healing Acts, ſhall after Ages have cauſe to bleſs and remember us in the midſt of all their mirth and jollity: Above all things let us pray for the concurrence &amp; divine aſſiſtance of our heavenly King, that we may doe ſuch things as may redound to his Glory, and both our terreſtrial and eternall Comforts; therefore, firſt of all, I am commanded to put this to the Vote, <hi>Whether the altering of our Government from</hi> Monarchy <hi>to a</hi> Commonwealth, <hi>hath not cauſed all the miſeries that we have ſuffered under to fad upon us; and whether there is or may be any hopes of Peace, Settlement, or the bealing of our national breaches, till we</hi> fear God and the King? <hi>And therefore call home our lawfull King from baniſhment.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phanaticks.</speaker>
+               <p>Mr. <hi>Speaker,</hi> your Propoſition is ſo illegall, conttary to our great and glorious cauſe, that we judge it altogether undeſerving a Vote, for that we have paſſed it with the Negative already; therefore pray let us proceed to matters of greater importance, <hi>viz.</hi> to the preven<g ref="char:EOLhyphen"/>ting
+<pb n="3" facs="tcp:154093:2"/> the common Enemy and his Adherents, the continuing Liberty of Conſcience to the godly and wel-gifted Chriſtians, the pulling down the Temples of Idols, the raiſing of Aſſeſments to encourage our faithfull Ar<g ref="char:EOLhyphen"/>my, who have been nigh unto us upon all imergencies; for if once they forſake us, we are all undone for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Loyal Cavaliers.</speaker>
+               <p>Nay but Gentlemen hold a little, you drive too furi<g ref="char:EOLhyphen"/>ouſly, we are not here Aſſembled to comply with your idle and wicked humours, but to build up the walls of our <hi>Jeruſalem:</hi> you ſay Mr. <hi>Spea<g ref="char:EOLhyphen"/>kers</hi> Propoſition hath paſt with a Negative; but under favour not with our negative; for we do here jointly and ſeverally affirm, <hi>That the Mur<g ref="char:EOLhyphen"/>ther of our</hi> KING, <hi>contrary to the command God hath given us by his Scriptures,</hi> Job 34. 18. <hi>both by the National Laws, Statutes, and Common Laws of our Kingdom, as the damnableſt Treaſon ever Subjects committed; and that his innocent blood hath mounted up and cryed loudly for vengeance on this Nation: from that fatall night hath ſprung all our miſeries; and therefore hath God made us a confuſed</hi> Babell. If right reaſon will be heard by you, wee'l convince you that way; You have had Eleven years to ſettle your Commonwealth, as you pretend, a very fair time one would think to have ſettled a Nation in; and I pray have not you done it upon a firm <hi>Baſis:</hi> O how Plenty and Peace flouriſheth! how bravely have you reformed all things! No <hi>Gentlemen,</hi> if your meaning was lawful, reaſonable, conſcio<g ref="char:EOLhyphen"/>nable or honeſt, you would not have any of this Bug-bear army to terrifie and oppreſs poor <hi>England,</hi> as it hath done, and muſt of neceſſity doe, till Nations be no more, if ſo long you can fool the people with your <hi>Utopian</hi> Fangle.</p>
+               <p>We do affirm Mr. <hi>Speakers</hi> Propoſition, the Fundamental of this Con<g ref="char:EOLhyphen"/>vention, and the Querie <hi>(Whether)</hi> to be <hi>certo; ergo,</hi> no Peace in our Kingdom, till our now Noble King and lawfull Soveraign Lord, as Su<g ref="char:EOLhyphen"/>prem Monarch, ſwaies the Scepter; and that this Change in our Go<g ref="char:EOLhyphen"/>vernment be utterly aboliſhed.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Gentlemen,</hi> 'tis in vain for us to put any thing tending to ei<g ref="char:EOLhyphen"/>ther the preſervation or detriment of our Intereſt to the Vote; for to be ſure you <hi>Cavaliers</hi> will out Vote us, although you work by no other reaſon then the <hi>Major</hi> controuls the <hi>Minor.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Caval.</speaker>
+               <p>You are much miſtaken in us, we deſire to be ruled by Reaſon, Conſcience, both to God and Man, the good of our own ſouls and o<g ref="char:EOLhyphen"/>thers, that we may doe ſuch things as may be to the glory and honour of God, and the Advancement of the Goſpel of Chriſt; otherwiſe, <hi>King</hi> ſhould be no more to us then the pooreſt of beggars: What we Vote, we ſhall not fear to refer to the Arbitration of honeſt and non-ſelf-intereſſed men, and ſhall abide their Determination without grumbling.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:154093:3"/>
+               <speaker>Phan.</speaker>
+               <p>
+                  <hi>Gentlemen,</hi> tell not us of Conſcience, the Honour and Glory of God, and theſe trifles, we will have a Commonwealth; and if you will not Vote with us, by fair means, but thus turn ours back again with the Negative, we will over-vote you by foul means, and immediately ſend for our Army, either to cudgel you into better manners, or elſe to garble you as the putrefactory entrails of the Famous Parliament of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>Antipodes.</hi> What <hi>Gentlemen,</hi> do you think that it can ſtand with our liking to let him in amongſt us, whoſe Father we have diſ<g ref="char:EOLhyphen"/>enthronized, and him diſ-inherited by the breach of ſo many Oaths, Pro<g ref="char:EOLhyphen"/>teſtations, Vows, Engagements, Declarations, Solemn League and Co<g ref="char:EOLhyphen"/>venant, Remonſtrance, Allegiance that have paved and cemented our way to Honour and Preferment, with ſo much blood and perjury; pray excuſe us <hi>Gentlemen,</hi> You may well allow us to take a little comfort of our La<g ref="char:EOLhyphen"/>bours; for aſſure your ſelves they will coſt us full dear before we have paid for them: 'Tis time enough to rechange your Government, when we ſhall have left the Stern, ſummoned by the ſtigian <hi>Charon</hi> to Embark for <hi>Gehenna.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Caval.</speaker>
+               <p>Then to maintain your wicked <hi>Grandeur,</hi> the whole Nation it ſeems muſt ſuffer a perpetual yoke of Tiranny and Oppreſſion, be perſecu<g ref="char:EOLhyphen"/>ted and pinched both in their ſpiritual and earthly lives and converſations, in their eſtates and ſubſiſtances; nay above all, we muſt, contrary to the light of knowledge and expreſs Word of God, be enforced to deſpiſe the Throne of our lawful King, the ancient and alwaies Government of the <hi>Antipodes,</hi> and that the beſt above all others, <hi>to cry, Hail, Hail unto you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>Tel not us of your ancient Governments, the ſad condition of the Nation, Law, Equitie, Goſpel; for we have won it and wee'l wear it: therefore <hi>Gentlemen,</hi> it behoves you, without further Diſputes to paſs ſuch things ith Houſe as we ſhal Vote, if you reſpect your own lives and peace, complie with us, and let us go on vigorouſly; for the Souldiery are even readie to mutiny for their pay.</p>
+            </sp>
+            <sp>
+               <speaker>Caval.</speaker>
+               <p>We thought what Saints you were; you crie, Money money, but where will you have it? the poor Subject he is brought ſo low, that it puſles the moſt ingenuous amongſt us now a daies to get bread to feed their poor periſhing Families the Merchant dares not ſtir the trades-man blows his nails and rubs his heels, trading with him is fallen into ſuch a benummed Lethargie, and the Farmer and Rural Peaſants may even goe ſhooe the Gooſe for monie to pay you. What are you become <hi>Egyptian</hi> Taskmaſters? you'l have the ſul Tale of Bricks from them, but not a bit of Straw wil you give them to work; you'l ſcrape them to the verie
+<pb n="5" facs="tcp:154093:3"/> bones for monie to maintaine your ſplendour and vain <hi>grandeur,</hi> but make no other proviſion for their ſubſiſtance, then inſtead of planting free Trade amongſt them, ſeek by all waies and means to root out that little that is left them:</p>
+               <p>
+                  <hi>Witneſſe the continuation of the War with</hi> Spain, <hi>and the ſuffering the lordly and ſelf ended</hi> Hollander <hi>to play</hi> Piſcator Angliae <hi>upon our own Coaſts, and the phantaſtical</hi> Frenchman <hi>to eat the bread out of poor</hi> Antipodians <hi>mouths.</hi>
+               </p>
+               <p>Therefore <hi>Gentlemen,</hi> if you have any pitie or compaſſion for the bleeding and gaſhlie wounds of poor <hi>Antipodia,</hi> ſhew it forth in being a joint Inſtrument with us under God to deliver her, which muſt be by a King, and none but a King, and no King neither; but our lawful Sove<g ref="char:EOLhyphen"/>raign, <hi>CHARLES</hi> the SECOND, which we will from the bot<g ref="char:EOLhyphen"/>tome of our Conſciences, prove unto you, if your patience will vouchſafe audience.</p>
+            </sp>
+            <sp>
+               <speaker>Phanat.</speaker>
+               <p>Well <hi>Gentlemen,</hi> we care not much if you have the hearing, though 'twill be but ſo much breath ſpent in vain and to little pur<g ref="char:EOLhyphen"/>poſe.</p>
+            </sp>
+            <p>One of the <hi>Cav liers</hi> in the name of the reſt, and on the behalf of the whole Kingdom, ſpeaks as followeth.</p>
+            <sp>
+               <p>To prove unto you that no other Government then Monarchy, hath Sate at the Sterne of theſe Nations ever ſince they were Civi<g ref="char:EOLhyphen"/>lized.</p>
+               <p>I will not here ſtand to inſtance; a moſt every Almanack being a ſuffi<g ref="char:EOLhyphen"/>cient Teſtator for me in that.</p>
+               <p>And to prove that you have ſinned againſt GOD and your own ſouls in murthering of your KING and his faithful Adherents and loyal Subjects, and Committing thoſe abominations that you have done ſince you butchered him:</p>
+               <p>Your own guilty and enflamed Conſciences are Witneſſes and Com<g ref="char:EOLhyphen"/>mentators ſufficient for that.</p>
+               <p>But my ſcope is to extend it ſelfe as well to the good of your owne ſouls, and of our poor Kingdome, which you have thus ſhattered, rent, and torn in pieces.</p>
+               <p>And therefore to prove that the Nation can never be at reſt, till ſhe be brought under her ANCIENT DUTY and OBEDIENCE, till MONARCHIE come againe to ſpread his WINGS <hi>as a HEN over her CHICKENS to NOURISH and DEFEND</hi>
+                  <pb n="6" facs="tcp:154093:4"/> her: For firſt a <hi>Kingdome divided againſt it ſelf cannot ſtand. And whe there was no King in Iſraell</hi> (meaning no ſupreme and lawfull Magiſtracy) <hi>every one did that which was good in his own eyes;</hi> then how do you think <hi>England</hi> can be at peace? and he that lives not in peace, is in Hell upon Earth in his inward and outward man.</p>
+               <p>2. Whilſt then the Church can never be united, which (though the State be never ſo well healed) will ſet all on flames, and continually im<g ref="char:EOLhyphen"/>broil'd, each labouring to be <hi>Pater ac Defenſor ſuoe fidei, &amp; ſubvertire omnes religiones viventes in noſtro Regno aliorum ſanctorum hominum proeter ſucs.</hi>
+               </p>
+               <p>3. Trading will never be reſtored; for the Nations round about us, make us their ſcoffing and laughing ſtock, ſcorning to have any other tra<g ref="char:EOLhyphen"/>ding and traffick with us, then what they think will impoveriſh and utter ruine us. Ho, ſay they, why ſhould we fear them that have murthered their King; we will no longer continue our ſubjection, but as they have forgot their duty, ſo we will forget our fear to them, and make them glad to owe ſome to us; for we know well enough what that giddy-headed people will doe now they have ſhaken off their ancient Government, even wallow up to the neck in one anothers blood: for what Enemies are comparable to the Civil; <hi>contra ſe inimica foerox eſt.</hi>
+               </p>
+               <p>4. The Laws of the Land are ſo aptly conſtituted for Regal power, that they cannot, without great abuſe, be of any force in this Kingdom.</p>
+               <p>5. The illegality of both the baniſhment and ſecluſion of King <hi>Charles</hi> the Second, our lawful Soveraign from his Crown and Dignities, and the great Tyranny, Perſecution and Slavery the Nobility and Gentry the Up<g ref="char:EOLhyphen"/>holders and Glory of a Nation, have ſuffered under the loſs of their lives, undoing of their Wives and Families, by the illegal deprivation of and Sequeſtration of their Eſtates, Houſes, Goods, and baniſhments of them<g ref="char:EOLhyphen"/>ſelves, gives ſo great a ſtroke at either our <hi>Summum bonum ve ſummum malum,</hi> that we can never expect any peace till the One be reſtored to his Crown, the Other to their lawful Heritages, and due recompence be made by ſorrowful remorſe, both before God and Man, for the innocent blood that hath been ſhed upon Blocks and Gibbets to the Third.</p>
+               <p>6. I do affirm on the behalf of theſe worthy <hi>Gentlemen</hi> and the whole Kingdom beſide, that when King <hi>Charles</hi> ſhall be eſtabliſhed, the Nation will be in as ſweet and bleſſed a condition as any in the whole world.</p>
+               <p>For firſt the Church will be (by devine aſſiſtance) reſtored to Unity, Order and Diſcipline, which will conſequently cauſe the ſame happineſs to fall out in the State; ſo that then when the world ſhall ſee as of one heart and one mind, they will no longer ſcoffe at <hi>Antipodia,</hi> but be glad to currie-favour again for quietneſs ſake.</p>
+               <pb n="7" facs="tcp:154093:4"/>
+               <p>Secondly, the Laws fundamentals, Statutes, and Common laws of <hi>An<g ref="char:EOLhyphen"/>ripodia</hi> will aſſume their antient vigour (having gotten their antient pre<g ref="char:EOLhyphen"/>ſident again) and will ſtand ſorcibly to correct the impetuous abuſes and inormities both forraign and domeſtick in Church and State in the pub<g ref="char:EOLhyphen"/>lick and private.</p>
+               <p>Thirdly, There will be no longer need of this great Army, neither will the Army it ſelf have any need to follow its employment, in reſpect of the fulneſs of a free Trade, which will call home ſuch Martials as have any Callings, or Trades, from the ſword, to get a living at an eaſier rate, than now they do; and thoſe that have none, to ſeek ſome one more honeſt and gainful.</p>
+               <p>Fourthly, The Nation will then be ſo aubndantly eaſed of her burthens, that within few years her flouriſhing eſtate will write her ſufferings in Oblivion. The terrible Plague-fores, Taxes, unreaſonable Cuſtoms, high and heavy Impoſts, Monopolies, Exciſe Sequeſtration, and all their attendants ſhall vade conragious, and never riſe any more; for there will be no need at all for them; when this Army is otherwiſe diſpoſed, eaſie will be the national burthen.</p>
+               <p>Fifthly, All nations will be glad to Trade and Commerce with us when they fee a ſettlement, which now they a void, by reaſon of the horror and confuſion which is amongſt us.</p>
+               <p>Sixthly, and laſtly, which is our <hi>Summum Bonum,</hi> we ſhall be reduced from the ſervice of <hi>Belial,</hi> to become the Fearers of God and the King; Whereby we ſhall prove our ſelves to be no longer of our Father the De<g ref="char:EOLhyphen"/>vil; but the Sons and Daughters of the living God, &amp; moſt Heavely King.</p>
+               <p>So I conclude, deſiring that Reaſon may have ſome influence on your hearts, where, if any ſpark of Grace and Loyalty be left, let it kindle; and like a mighty fire conſume the ſtrong holds of Sathan there; and throw them down like conſumed aſhes: Then ſhall we all with one accord lift up our voices and cry aloud, <hi>God ſave the KING:</hi> a harmony that will ſound pleaſantly in the ears of thoſe both Noble and Common, from the Merchant to the Plow-man, from the Lord to the Beggar, whoſe Repre<g ref="char:EOLhyphen"/>ſentatives we are.</p>
+            </sp>
+            <p>Which made the very hearts of the <hi>Phanaticks</hi> to tremble, and all with one accord, they lifted up their voice and cried aloud. <hi>Men and Brethren what ſhall we do to be ſaved?</hi> and immediately fell into a ſtrong agony; which having awaked from, they ſaid as followeth:</p>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>We do confeſs from the bottom of our ſouls we have done wickedly out of meaſure, in ſo much that we are even ready to become a ſecond <hi>Francis Spira;</hi> we feel the terrible pangs our Lunacy have brought
+<pb n="8" facs="tcp:154093:5"/> upon us:: We confeſs now there can be no peace or ſettlement either in Church or State till the Son of our late King be ſet upon his Fathers Throne, which in reaſon or conſcience we can no longer deny; but only ſelf-intereſt, to think that we muſt part with all the Honour, Gold, and changes of Raiment that we have gotten is bitter to us: theſe we do in<g ref="char:EOLhyphen"/>geniouſly confeſs are all the Gates and Bulwarks we have raiſed againſt our King: neither Religion or Conſcience leading us to ſuch undertakings. Beſides, now we ſeriouſly conſider, if we aſſent and join with you, we ſhall not only hazard our lives, but multitudes of the people both Milita<g ref="char:EOLhyphen"/>ry and Civil, who have ſided with us; together with all the Goods and Eſtates which their Children and Families depend upon for a future ſub<g ref="char:EOLhyphen"/>ſiſtence: above 400000. having propriety in Kings, Queens, Princes, Crown &amp; Eccleſiaſtical Lands, and the ſequeſtered Eſtates of Delinquent; ſo that we ſhall not only loſe our lives, but we and our poſterity wil be ſtripped of all, the very mony we have paid to purchaſs theſe things with<g ref="char:EOLhyphen"/>al: But if we could but be certain of an Act of Oblivion, together with an enjoiment of our ſaid portions of ſuch Eſtates, until ſuch time as we ſhould have received the mony that paid our purchaſe, We do here ſo<g ref="char:EOLhyphen"/>lemnly in our own Names, and on the behalf of all our Brethren and Members in the three Nations proteſt, That we wil heartily concur with you in the eſtabliſhing peace and ſettlement in this Commonwealth, which we do now affirm can by no other way (under God) be done, than by reſtoring <hi>Charls</hi> the Second to the Throne and Dignities of his Father of bleſſed Memory.</p>
+            </sp>
+            <sp>
+               <speaker>Caval.</speaker>
+               <p>Let not that trouble you, or hinder your joining with us in this right, true, and indeed glorious Cauſe; for be aſſured upon the word of a Gentleman, that our King wil not be found leſs willing to condeſcend to any Act of Clemencie, Mercie, Pietie, or Juſtice, than you ſhall be rea<g ref="char:EOLhyphen"/>dy to ask. And for what you ſpeak of, we tel you he hath pondered the ſame in his heart already.</p>
+            </sp>
+            <sp>
+               <speaker>Phan.</speaker>
+               <p>Wel then, we conſent, and from hence forth wil become fellow helpers with you to ſettle our King upon his Throne, that Peace may crown our latter daies, and Unitie dwel amongſt us, and that we may all be brought back again from the worſhip of Idols, to the true fear of God and the King in</p>
+            </sp>
+            <trailer>THE END.</trailer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <lg>
+               <l>Poor England joy thy Peace is haſting on,</l>
+               <l>For now the Royaliſt's in union.</l>
+               <l>The penitent Phanaticks are bound faſt</l>
+               <l>To ſet up <hi>Charls</hi> their King on's Throne at laſt.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
